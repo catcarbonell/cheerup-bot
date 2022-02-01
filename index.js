@@ -11,7 +11,8 @@ const cheers = [
   "https://media4.giphy.com/media/9JnRMIFMYAKpaHRXRF/giphy.gif?cid=2319e9d198etbh9sss7d213wisilce5xrj3qjow81heipa17&rid=giphy.gif&ct=g",
   "https://media1.giphy.com/media/tHLMotErNVh1m/giphy.gif?cid=2319e9d198etbh9sss7d213wisilce5xrj3qjow81heipa17&rid=giphy.gif&ct=g",
   "https://media4.giphy.com/media/l0MYCDXGiwtgif24o/giphy-downsized.gif?cid=2319e9d198etbh9sss7d213wisilce5xrj3qjow81heipa17&rid=giphy-downsized.gif&ct=g",
-  "https://i.ytimg.com/vi/0Qe9dA5GP48/maxresdefault.jpg"
+  "https://i.ytimg.com/vi/0Qe9dA5GP48/maxresdefault.jpg",
+  "https://media4.giphy.com/media/rhC8duvjyYNhRxMBbQ/giphy.gif?cid=2319e9d198etbh9sss7d213wisilce5xrj3qjow81heipa17&rid=giphy.gif&ct=g"
 ]
 
 const getCheers = () => cheers[Math.floor(Math.random() * cheers.length)]
