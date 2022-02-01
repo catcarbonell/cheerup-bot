@@ -7,3 +7,5 @@
 ## Code
 
 We're running the [Discord.js API](https://discord.js.org/#/) with [NodeJS](https://nodejs.org/en/).
+
+Code is also hosted on [Repl.it](https://replit.com/@catcarbonell/cheerup-bot#index.js)
